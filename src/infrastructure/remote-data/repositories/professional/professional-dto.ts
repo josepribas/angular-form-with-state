@@ -1,6 +1,7 @@
-export interface ProfessionalDTO {
+export interface ProfessionalDto {
   id: number;
   name: string;
-  locked: boolean;
+  vatNumber: string;
+  blocked: boolean;
   validated: boolean;
 }
