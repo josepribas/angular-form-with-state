@@ -1,4 +1,4 @@
-import { ProfessionalNotValidatedNotBlocked, ProfessionalState } from "./professional-state";
+import { ProfessionalNotValidatedNotBlocked, ProfessionalState } from "./professionalState";
 
 export class Professional {
   id: number = 0;
